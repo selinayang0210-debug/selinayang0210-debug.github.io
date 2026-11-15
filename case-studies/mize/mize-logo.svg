@@ -1,0 +1,8 @@
+<svg viewBox="0 0 1024 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g fill="#F0F0EB" transform="translate(36 36) scale(.86)">
+    <path d="M80 112C80 96.536 92.536 84 108 84H226V150H158C151.373 150 146 155.373 146 162V350C146 356.627 151.373 362 158 362H226V428H108C92.536 428 80 415.464 80 400V112Z"/>
+    <path d="M432 112C432 96.536 419.464 84 404 84H286V150H354C360.627 150 366 155.373 366 162V350C366 356.627 360.627 362 354 362H286V428H404C419.464 428 432 415.464 432 400V112Z"/>
+    <circle cx="256" cy="256" r="34"/>
+  </g>
+  <text x="485" y="298" fill="#F0F0EB" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="142" font-weight="550" letter-spacing="-9">Mize</text>
+</svg>

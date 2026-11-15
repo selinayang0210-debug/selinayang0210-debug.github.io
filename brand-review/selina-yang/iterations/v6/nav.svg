@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="32 32 448 448"><title>Selina Yang — 原版 SY 与独立圆环</title><g id="icon"><circle id="outer-circle" cx="256" cy="256" r="207" fill="none" stroke="#F2F2F2" stroke-width="20"/><g id="initials" fill="#F2F2F2" transform="translate(102.4 102.4) scale(.6) translate(-11 -12)">
+    <path id="letter-s" d="M280 72H184C115 72 72 108 72 168C72 220 102 247 150 271L261 327C290 341 304 352 304 370C304 390 286 400 256 400H112V464H256C326 464 368 429 368 370C368 319 338 290 289 265L180 209C150 194 136 185 136 168C136 147 154 136 184 136H247Z"/>
+    <path id="letter-y" d="M210 72H280L336 168L392 72H462L368 233V370H304V233Z"/>
+  </g></g></svg>

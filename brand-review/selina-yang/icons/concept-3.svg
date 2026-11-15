@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Selina Yang — typographic initials</title>
+  <desc id="desc">An optically condensed SY stamp derived from the capitals of the Selina Yang wordmark.</desc>
+  <g id="icon" fill="#F2F2F2" transform="translate(32 67) scale(2 3.1)">
+    <path id="initial-S" d="M87 10 80 28C69 20 57 16 44 16 28 16 20 23 20 34 20 44 29 49 47 53L58 56C80 62 91 72 91 89 91 109 73 122 48 122 28 122 12 116 0 108L9 90C21 99 34 105 48 105 63 105 72 100 72 89 72 80 65 75 46 70L35 67C11 61 1 51 1 35 1 13 20-1 45-1 61-1 76 3 87 10Z"/>
+    <path id="initial-Y" d="M110 0H132L159 47C163 54 165 61 167 68 169 61 171 54 175 47L202 0H224L177 81V122H157V81Z"/>
+  </g>
+</svg>

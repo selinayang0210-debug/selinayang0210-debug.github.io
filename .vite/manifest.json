@@ -1,0 +1,190 @@
+{
+  "../../portfolio-site/node_modules/vinext/dist/shims/image.js": {
+    "file": "_next/static/chunks/image-CY5HhzVc.js",
+    "name": "image",
+    "src": "../../portfolio-site/node_modules/vinext/dist/shims/image.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "virtual:vinext-app-browser-entry",
+      "_framework-BgSIrAUN.js"
+    ]
+  },
+  "../../portfolio-site/node_modules/vinext/dist/shims/layout-segment-context.js": {
+    "file": "_next/static/chunks/layout-segment-context-CIkthXTJ.js",
+    "name": "layout-segment-context",
+    "src": "../../portfolio-site/node_modules/vinext/dist/shims/layout-segment-context.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "virtual:vinext-app-browser-entry",
+      "_framework-BgSIrAUN.js"
+    ]
+  },
+  "_framework-BgSIrAUN.js": {
+    "file": "_next/static/chunks/framework-BgSIrAUN.js",
+    "name": "framework",
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js"
+    ]
+  },
+  "_orbit-motion.Bqdl9Wr-.css": {
+    "file": "_next/static/css/orbit-motion.Bqdl9Wr-.css",
+    "src": "_orbit-motion.Bqdl9Wr-.css"
+  },
+  "_orbit-motion.module-D2GXWRgW.js": {
+    "file": "_next/static/chunks/orbit-motion.module-D2GXWRgW.js",
+    "name": "orbit-motion.module",
+    "css": [
+      "_next/static/css/orbit-motion.Bqdl9Wr-.css"
+    ]
+  },
+  "_rolldown-runtime-C60lm6uB.js": {
+    "file": "_next/static/chunks/rolldown-runtime-C60lm6uB.js",
+    "name": "rolldown-runtime"
+  },
+  "_translations-BAn8w47o.js": {
+    "file": "_next/static/chunks/translations-BAn8w47o.js",
+    "name": "translations"
+  },
+  "app/components/cursor-light.tsx": {
+    "file": "_next/static/chunks/cursor-light-D6jO4_wG.js",
+    "name": "cursor-light",
+    "src": "app/components/cursor-light.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-BgSIrAUN.js"
+    ]
+  },
+  "app/components/demo-video.tsx": {
+    "file": "_next/static/chunks/demo-video-CA6H6-Og.js",
+    "name": "demo-video",
+    "src": "app/components/demo-video.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-BgSIrAUN.js"
+    ]
+  },
+  "app/components/language-switch.tsx": {
+    "file": "_next/static/chunks/language-switch-BJ0jjf2t.js",
+    "name": "language-switch",
+    "src": "app/components/language-switch.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-BgSIrAUN.js"
+    ]
+  },
+  "app/components/mize-brand.tsx": {
+    "file": "_next/static/chunks/mize-brand-BBsMn4e8.js",
+    "name": "mize-brand",
+    "src": "app/components/mize-brand.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-BgSIrAUN.js"
+    ]
+  },
+  "app/components/mize-showcase.tsx": {
+    "file": "_next/static/chunks/mize-showcase-Ddm4gbf6.js",
+    "name": "mize-showcase",
+    "src": "app/components/mize-showcase.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_translations-BAn8w47o.js",
+      "_framework-BgSIrAUN.js"
+    ],
+    "css": [
+      "_next/static/css/mize-showcase.DIr5qzW6.css"
+    ]
+  },
+  "app/components/orbit-decision-screens.tsx": {
+    "file": "_next/static/chunks/orbit-decision-screens-BdVj3449.js",
+    "name": "orbit-decision-screens",
+    "src": "app/components/orbit-decision-screens.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "app/components/orbit-media.tsx",
+      "_orbit-motion.module-D2GXWRgW.js",
+      "_framework-BgSIrAUN.js"
+    ]
+  },
+  "app/components/orbit-media.tsx": {
+    "file": "_next/static/chunks/orbit-media-FzHTkf2b.js",
+    "name": "orbit-media",
+    "src": "app/components/orbit-media.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-BgSIrAUN.js"
+    ],
+    "css": [
+      "_next/static/css/orbit-media.uDDWNiAm.css"
+    ]
+  },
+  "app/components/orbit-motion.tsx": {
+    "file": "_next/static/chunks/orbit-motion-DF9ux1s5.js",
+    "name": "orbit-motion",
+    "src": "app/components/orbit-motion.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_orbit-motion.module-D2GXWRgW.js",
+      "_framework-BgSIrAUN.js"
+    ]
+  },
+  "app/components/particle-field.tsx": {
+    "file": "_next/static/chunks/particle-field-tXBpNCmm.js",
+    "name": "particle-field",
+    "src": "app/components/particle-field.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-BgSIrAUN.js"
+    ]
+  },
+  "app/components/workflow-film.tsx": {
+    "file": "_next/static/chunks/workflow-film-ClHMakD8.js",
+    "name": "workflow-film",
+    "src": "app/components/workflow-film.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "app/components/demo-video.tsx",
+      "_translations-BAn8w47o.js",
+      "_framework-BgSIrAUN.js"
+    ],
+    "css": [
+      "_next/static/css/workflow-film.DmfcSEi0.css"
+    ]
+  },
+  "virtual:vinext-app-browser-entry": {
+    "file": "_next/static/chunks/index-DCWSCB-Q.js",
+    "name": "index",
+    "src": "virtual:vinext-app-browser-entry",
+    "isEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-BgSIrAUN.js"
+    ],
+    "dynamicImports": [
+      "app/components/mize-showcase.tsx",
+      "virtual:vinext-app-browser-entry",
+      "app/components/orbit-decision-screens.tsx",
+      "app/components/orbit-motion.tsx",
+      "../../portfolio-site/node_modules/vinext/dist/shims/image.js",
+      "app/components/demo-video.tsx",
+      "app/components/language-switch.tsx",
+      "app/components/orbit-media.tsx",
+      "app/components/mize-brand.tsx",
+      "app/components/particle-field.tsx",
+      "app/components/workflow-film.tsx",
+      "../../portfolio-site/node_modules/vinext/dist/shims/layout-segment-context.js",
+      "app/components/cursor-light.tsx"
+    ]
+  }
+}

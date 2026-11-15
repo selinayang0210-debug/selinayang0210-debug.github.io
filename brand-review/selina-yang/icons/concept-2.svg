@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Selina Yang — Folded light monogram</title>
+  <desc id="desc">An open, curved S beside a flowing Y. A narrow diagonal break lets the two letterforms pass one another.</desc>
+  <g id="icon" fill="#F2F2F2">
+    <path transform="translate(-32 0)" d="M257 115 C229 98 202 92 174 96 C113 103 77 140 80 187 C82 232 122 254 165 270 L208 286 C235 297 246 309 242 325 C237 349 208 365 179 361 C157 359 138 351 120 338 L91 377 C116 397 144 409 174 412 C228 417 277 384 289 339 C300 293 271 261 222 242 L177 225 C148 214 130 201 131 182 C132 160 153 144 180 143 C201 141 221 148 238 158 Z"/>
+    <path d="M266 101 L314 101 L341 217 L408 101 L464 101 L359 278 C348 297 340 318 334 339 L313 411 L260 411 L286 321 C293 297 302 275 312 253 Z"/>
+  </g>
+</svg>
