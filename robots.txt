@@ -1,2 +1,6 @@
 User-agent: *
-Disallow: /
+Allow: /
+Disallow: /about/
+Disallow: /zh/about/
+Disallow: /mize-demo/
+Sitemap: https://selinayang.design/sitemap.xml
