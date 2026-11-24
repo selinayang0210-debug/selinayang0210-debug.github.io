@@ -1,8 +1,8 @@
 {
-  "../../portfolio-site/node_modules/vinext/dist/shims/image.js": {
-    "file": "_next/static/chunks/image-DYFMEiKo.js",
+  "../portfolio-site/node_modules/vinext/dist/shims/image.js": {
+    "file": "_next/static/chunks/image-CJk3EjCG.js",
     "name": "image",
-    "src": "../../portfolio-site/node_modules/vinext/dist/shims/image.js",
+    "src": "../portfolio-site/node_modules/vinext/dist/shims/image.js",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-C60lm6uB.js",
@@ -10,10 +10,10 @@
       "_framework-BgSIrAUN.js"
     ]
   },
-  "../../portfolio-site/node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "_next/static/chunks/layout-segment-context-C3mje_Q1.js",
+  "../portfolio-site/node_modules/vinext/dist/shims/layout-segment-context.js": {
+    "file": "_next/static/chunks/layout-segment-context-CLn6mOJG.js",
     "name": "layout-segment-context",
-    "src": "../../portfolio-site/node_modules/vinext/dist/shims/layout-segment-context.js",
+    "src": "../portfolio-site/node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-C60lm6uB.js",
@@ -126,8 +126,22 @@
       "_next/static/css/orbit-media.uDDWNiAm.css"
     ]
   },
+  "app/components/orbit-meeting-screens.tsx": {
+    "file": "_next/static/chunks/orbit-meeting-screens-R7AwVPCz.js",
+    "name": "orbit-meeting-screens",
+    "src": "app/components/orbit-meeting-screens.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_orbit-motion.module-D2GXWRgW.js",
+      "_framework-BgSIrAUN.js"
+    ],
+    "css": [
+      "_next/static/css/orbit-meeting-screens.tiFoH_cK.css"
+    ]
+  },
   "app/components/orbit-motion.tsx": {
-    "file": "_next/static/chunks/orbit-motion-DF9ux1s5.js",
+    "file": "_next/static/chunks/orbit-motion-XNfXGKCF.js",
     "name": "orbit-motion",
     "src": "app/components/orbit-motion.tsx",
     "isDynamicEntry": true,
@@ -138,7 +152,7 @@
     ]
   },
   "app/components/particle-field.tsx": {
-    "file": "_next/static/chunks/particle-field-tXBpNCmm.js",
+    "file": "_next/static/chunks/particle-field-CP6-hm0y.js",
     "name": "particle-field",
     "src": "app/components/particle-field.tsx",
     "isDynamicEntry": true,
@@ -148,7 +162,7 @@
     ]
   },
   "app/components/workflow-film.tsx": {
-    "file": "_next/static/chunks/workflow-film-Us4LdITM.js",
+    "file": "_next/static/chunks/workflow-film-D6pZZDYR.js",
     "name": "workflow-film",
     "src": "app/components/workflow-film.tsx",
     "isDynamicEntry": true,
@@ -163,7 +177,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "_next/static/chunks/index-Dqohts-9.js",
+    "file": "_next/static/chunks/index-BLsbEQMt.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
@@ -172,18 +186,19 @@
       "_framework-BgSIrAUN.js"
     ],
     "dynamicImports": [
-      "app/components/mize-showcase.tsx",
       "virtual:vinext-app-browser-entry",
+      "app/components/mize-showcase.tsx",
       "app/components/orbit-decision-screens.tsx",
+      "../portfolio-site/node_modules/vinext/dist/shims/layout-segment-context.js",
       "app/components/orbit-motion.tsx",
-      "../../portfolio-site/node_modules/vinext/dist/shims/image.js",
+      "../portfolio-site/node_modules/vinext/dist/shims/image.js",
+      "app/components/orbit-meeting-screens.tsx",
       "app/components/demo-video.tsx",
       "app/components/language-switch.tsx",
       "app/components/orbit-media.tsx",
       "app/components/mize-brand.tsx",
       "app/components/particle-field.tsx",
       "app/components/workflow-film.tsx",
-      "../../portfolio-site/node_modules/vinext/dist/shims/layout-segment-context.js",
       "app/components/cursor-light.tsx"
     ]
   }
