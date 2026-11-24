@@ -1,6 +1,6 @@
 {
   "../portfolio-site/node_modules/vinext/dist/shims/image.js": {
-    "file": "_next/static/chunks/image-CJk3EjCG.js",
+    "file": "_next/static/chunks/image-DC40jcSF.js",
     "name": "image",
     "src": "../portfolio-site/node_modules/vinext/dist/shims/image.js",
     "isDynamicEntry": true,
@@ -11,7 +11,7 @@
     ]
   },
   "../portfolio-site/node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "_next/static/chunks/layout-segment-context-CLn6mOJG.js",
+    "file": "_next/static/chunks/layout-segment-context-BAQAngaM.js",
     "name": "layout-segment-context",
     "src": "../portfolio-site/node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -102,7 +102,7 @@
     ]
   },
   "app/components/orbit-decision-screens.tsx": {
-    "file": "_next/static/chunks/orbit-decision-screens-BdVj3449.js",
+    "file": "_next/static/chunks/orbit-decision-screens-1DBlzryk.js",
     "name": "orbit-decision-screens",
     "src": "app/components/orbit-decision-screens.tsx",
     "isDynamicEntry": true,
@@ -114,7 +114,7 @@
     ]
   },
   "app/components/orbit-media.tsx": {
-    "file": "_next/static/chunks/orbit-media-FzHTkf2b.js",
+    "file": "_next/static/chunks/orbit-media-hEGpVlQc.js",
     "name": "orbit-media",
     "src": "app/components/orbit-media.tsx",
     "isDynamicEntry": true,
@@ -127,7 +127,7 @@
     ]
   },
   "app/components/orbit-meeting-screens.tsx": {
-    "file": "_next/static/chunks/orbit-meeting-screens-R7AwVPCz.js",
+    "file": "_next/static/chunks/orbit-meeting-screens-PqrfJ3ad.js",
     "name": "orbit-meeting-screens",
     "src": "app/components/orbit-meeting-screens.tsx",
     "isDynamicEntry": true,
@@ -141,7 +141,7 @@
     ]
   },
   "app/components/orbit-motion.tsx": {
-    "file": "_next/static/chunks/orbit-motion-XNfXGKCF.js",
+    "file": "_next/static/chunks/orbit-motion-COm7k95M.js",
     "name": "orbit-motion",
     "src": "app/components/orbit-motion.tsx",
     "isDynamicEntry": true,
@@ -177,7 +177,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "_next/static/chunks/index-BLsbEQMt.js",
+    "file": "_next/static/chunks/index-e3IA0M2i.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
